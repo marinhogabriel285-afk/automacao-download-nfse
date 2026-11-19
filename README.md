@@ -41,5 +41,7 @@ Na barra de pesquisa da pasta que estao o certificao e o arquivo baixar_nfse.py,
 python baixar_nfse.py
 <img width="515" height="123" alt="image" src="https://github.com/user-attachments/assets/9c62bac6-885a-4e3b-bcfe-16de1257c142" />
 <img width="701" height="133" alt="image" src="https://github.com/user-attachments/assets/ac7b5257-e407-42af-8299-07b210c3e7d0" />
+<img width="616" height="95" alt="image" src="https://github.com/user-attachments/assets/3f9f4ae1-dc89-4afb-994b-4899a9456bae" />
+
 
 
